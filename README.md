@@ -10,4 +10,4 @@ mas01.py can ran on the multiple sequences over binary alphabet (0 and 1) with e
 ``python msa01.py 0100000100 000010001 0001000100``
 
 masRNA.py can ran on the multiple sequences over four letters (A, G, U, C).  
-``python msaRNA.py "GAUCAGUC" "AUCAGC" "GACGAUAAAA"``
+``python msaRNA.py GAUCAGUC AUCAGC GACGAUAAAA``
